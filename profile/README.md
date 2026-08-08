@@ -7,6 +7,10 @@ hii :3, welcome to Cratered Labs, the group behind Lunar OS and YTSTAB
 - **Lunar OS** — a Browser OS with Lunar Shield (Personalized YTSTAB), Games, and a Scramjet Proxy
 - **YTSTAB** — Ad Blocker that blocks ads in Scramjet v1.1.0
 
+## Working On
+
+- **Penalty Player** - Open-Source Music Player App, Linux, MacOS, and Chromebook Support Coming Maybe
+
 More stuff might show up here eventually, who knows
 
 ## Why Cratered Labs
