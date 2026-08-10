@@ -26,7 +26,7 @@ small team (rn its just me lol), makes updates everyday, can always make custom 
 
 ## Contact
 
-Find us in the official Cratered Labs Support [Discord Server](https://discord.gg/vtVb5endn5) — thats the best place to reach out, suggest stuff, report bugs, or ask about anything under the org
+For any inquiries, please email us at crateredlabs@gmail.com
 
 Plentify,
 Femboy Dev and Owner of Cratered Labs
