@@ -4,14 +4,12 @@ hii :3, welcome to Cratered Labs, the group behind Lunar OS, YTSTAB, Femboy Mach
 
 ## What we work on
 
-- **Lunar OS** — a Browser OS with Lunar Shield (Personalized YTSTAB), Games, and a Scramjet Proxy
-- **YTSTAB** — Ad Blocker that blocks ads in Scramjet v1.1.0
-- **Femboy Machine** - A Discord Link Dispenser using supabase to store the links, always gets updates
+- All Repo's such as Lunar OS, YTSTAB, and Femboy Machinc will be Archived due to personal reasons, if anyone wants it, dm me on discord at @plentify_
 
 
 ## Working On
 
-- **Penalty Player** - Open-Source Music Player App, Linux, MacOS, and Chromebook Support Coming Maybe
+- **Debate Spark** - Debate Platform for K-12
 
 More stuff might show up here eventually, who knows
 
