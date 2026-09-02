@@ -13,10 +13,6 @@ hii :3, welcome to Cratered Labs.
 
 More stuff might show up here eventually, who knows
 
-## Why Cratered Labs
-
-small team (rn its just me lol), makes updates everyday, can always make custom stuff for you, and we tuff
-
 ## Philosophy
 
 - open source, MIT licensed unless said otherwise
