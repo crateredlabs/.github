@@ -1,10 +1,10 @@
 # Cratered Labs
 
-hii :3, welcome to Cratered Labs, the group behind Lunar OS, YTSTAB, Femboy Machine (Link Dispenser), and Penalty Player (WIP).
+hii :3, welcome to Cratered Labs.
 
 ## What we work on
 
-- All Repo's such as Lunar OS, YTSTAB, and Femboy Machinc will be Archived due to personal reasons, if anyone wants it, dm me on discord at @plentify_
+- All Repo's such as Lunar OS, YTSTAB, and Femboy Machince will be Archived due to personal reasons, if anyone wants it, dm me on discord at @plentify_
 
 
 ## Working On
