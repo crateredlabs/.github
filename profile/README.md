@@ -1,6 +1,6 @@
 # Cratered Labs
 
-hii :3, welcome to Cratered Labs.
+hii :3, welcome to Cratered Labs. If you want Cratered Labs to make something for your school or your org, contact us at crateredlabs@gmail.com  Current tech stack is HTML, CSS, JS, JSX, and Python. I do mostly K-12 Stuff, if its something else, add (RS) to your topic.
 
 ## What we work on
 
