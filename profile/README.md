@@ -16,5 +16,11 @@ For new coders, transitioning to Lunarian is very easy and for veteran programme
 
 Right now, Lunarian is in a semi-open beta, the interpreter is a VS Code plugin, and if you want to test it, you can contact us on discord (@plentify_).
 
+## Images
+
+<img width="355" height="88" alt="image" src="https://github.com/user-attachments/assets/218e1103-b1cf-493e-b2f4-51f7aefef090" />
+
+<img width="1107" height="1055" alt="image" src="https://github.com/user-attachments/assets/349cdf02-cc80-4bf6-b959-43e8237afb55" />
+
 Thank you,
 The Lunarian Foundation
